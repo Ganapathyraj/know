@@ -1,0 +1,247 @@
+{"properties": [
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "Spring.jpa.open-in-View",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.open-in-View'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.url'"
+  },
+  {
+    "name": "Spring.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.username'"
+  },
+  {
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  },
+  {
+    "name": "Spring.jpa.open-in-view",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.open-in-view'"
+  }
+]}
